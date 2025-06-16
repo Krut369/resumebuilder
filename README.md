@@ -1,4 +1,3 @@
-Sure! Here's your updated `README.md` for the **ResumeBuilder** project **with all Lovable branding removed** – ready to copy-paste:
 
 ---
 
