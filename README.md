@@ -1,64 +1,81 @@
+Sure! Here's your updated `README.md` for the **ResumeBuilder** project **with all Lovable branding removed** – ready to copy-paste:
+
+---
+
+````markdown
 # ResumeBuilder
 
-**ResumeBuilder** is a modern web app built with **Next.js** and powered by **Firebase Studio**. It helps users create professional resumes quickly and easily with a clean and responsive UI.
+A modern and customizable resume builder app built with **React**, **TypeScript**, and **Tailwind CSS**.
 
-## ✨ Features
+---
 
-- Built with **Next.js** and **TypeScript**
-- Firebase Studio integration
-- Real-time form updates
-- Dynamic resume preview
-- Responsive and mobile-friendly design
+## 🧠 Project Overview
 
-## 🚀 Getting Started
+**ResumeBuilder** allows users to create elegant, printable resumes with real-time editing and preview. It features a clean UI and is built using modern technologies like:
 
-To begin development, edit:
+- ⚡ Vite  
+- ⚛️ React + TypeScript  
+- 🎨 Tailwind CSS  
+- 🧩 shadcn/ui
+
+---
+
+## 🛠️ How to Run This Project Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Krut369/resumebuilder.git
+   cd resumebuilder
+````
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and visit:
+   `http://localhost:5173`
+
+---
+
+## ✏️ Editing Files
+
+You can use any modern IDE (like VS Code) to edit files. After making changes, commit and push them to your repository.
+
+---
+
+## 🚀 Deployment
+
+You can deploy this app to any static hosting provider such as:
+
+* Vercel
+* Netlify
+* GitHub Pages
+
+Just make sure to build your app first:
 
 ```bash
-src/app/page.tsx
-🛠 Setup Instructions
-Clone the repository:
+npm run build
+```
 
-bash
-Copy
-Edit
-git clone https://github.com/Krut369/resumebuilder.git
-cd resumebuilder
-Install dependencies:
+And then follow the respective platform's guide to deploy a Vite + React app.
 
-bash
-Copy
-Edit
-npm install
-Start the development server:
+---
 
-bash
-Copy
-Edit
-npm run dev
-Open in browser:
+## 📄 License
 
-arduino
-Copy
-Edit
-http://localhost:3000
-🔐 Firebase Setup (Optional)
-Add your Firebase credentials in a .env.local file:
+MIT License. Free to use, modify, and distribute.
 
-env
-Copy
-Edit
-NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
-🧩 Tech Stack
-Next.js
+```
 
-TypeScript
+---
 
-Tailwind CSS (optional)
-
-Firebase
-
-📄 License
-This project is licensed under the MIT License.
+Let me know if you'd like to add screenshots, features list, or deployment instructions for a specific platform like Vercel or Netlify!
+```
