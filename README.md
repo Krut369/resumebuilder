@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # ResumeBuilder
 
 A modern and customizable resume builder app built with **React**, **TypeScript**, and **Tailwind CSS**.
@@ -22,20 +18,20 @@ A modern and customizable resume builder app built with **React**, **TypeScript*
 ## 🛠️ How to Run This Project Locally
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/Krut369/resumebuilder.git
    cd resumebuilder
-````
+   ```
 
 2. Install dependencies:
 
-   ```bash
+   ```
    npm install
    ```
 
 3. Start the development server:
 
-   ```bash
+   ```
    npm run dev
    ```
 
